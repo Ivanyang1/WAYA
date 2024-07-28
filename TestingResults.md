@@ -1,4 +1,4 @@
-# Automated Testing Results
+# Event Management Testing Results
 
 ## Summary of Bot Functionality Tests
 
